@@ -1,2 +1,2 @@
 # pnadaOS
-Open Source Linux Operating System
+Open Source Linux Operating System.
